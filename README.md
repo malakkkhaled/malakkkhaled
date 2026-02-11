@@ -51,21 +51,18 @@ Turning data into intelligent solutions 🤖📊
 
 ### 💼 Experience
 
-*Microsoft Machine Learning Engineer – DEPI* (Ongoing)  
+*Microsoft Machine Learning Engineer – DEPI*  
 - Developing end-to-end ML & Deep Learning solutions.  
 - Working with Python pipelines, data preprocessing, and model deployment.
 
-*AI & Machine Learning Training – ITIDA* (Feb 2025)  
+*AI & Machine Learning Training – ITIDA*  
 - 35-hour intensive program covering ML concepts and hands-on projects.
 
-*Computer Vision – NTI* (Aug 2025 – Ongoing)  
+*Computer Vision – NTI*   
 - Implementing CV projects including face & emotion recognition, object detection.
 
-*CIB Training* (Jul 2025 – Aug 2025)  
+*CIB Training*   
 - Gained practical experience in AI applications and workflow optimization.
-
-*Graphic Design Training – ITIDA* (Jul 2025)  
-- Learned UI/UX principles for creating intuitive interfaces for AI apps.
 
 ---
 
