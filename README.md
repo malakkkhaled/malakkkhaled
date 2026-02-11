@@ -49,34 +49,23 @@ Turning data into intelligent solutions 🤖📊
 
 ---
 
-### 💼 Featured Projects
+### 💼 Experience
 
+*Microsoft Machine Learning Engineer – DEPI* (Ongoing)  
+- Developing end-to-end ML & Deep Learning solutions.  
+- Working with Python pipelines, data preprocessing, and model deployment.
 
-### [Face & Emotion Recognition in Photos and Video](https://github.com/malakkkhaled/Face_Detection_and_Emotion_Recognition)
+*AI & Machine Learning Training – ITIDA* (Feb 2025)  
+- 35-hour intensive program covering ML concepts and hands-on projects.
 
-- Detects faces and recognizes emotions (Happy, Sad, Angry, Surprised) using Deep Learning & Computer Vision.  
-- Works with images, recorded videos, and live camera streams.  
-- Integrated optional GUI for smooth user interaction.  
-- Combines face detection models with emotion classification.  
-- Requires external installation of FFmpeg.  
-- Dataset provided separately via Google Drive (linked inside repository).  
+*Computer Vision – NTI* (Aug 2025 – Ongoing)  
+- Implementing CV projects including face & emotion recognition, object detection.
 
----
+*CIB Training* (Jul 2025 – Aug 2025)  
+- Gained practical experience in AI applications and workflow optimization.
 
-### Weather Forecasting Using Machine Learning  
-
-- Cleaned & preprocessed weather dataset (handling missing values, encoding, scaling).  
-- Applied KMeans clustering for pattern discovery.  
-- Trained Neural Network model using Scikit-learn.  
-- Built interactive Streamlit dashboard for real-time predictions.  
-
----
-
-### Online Food Ordering System (C++)
-
-- Built console-based application using OOP concepts.  
-- Implemented inheritance, encapsulation & polymorphism.  
-- Designed structured menu system and order processing logic.
+*Graphic Design Training – ITIDA* (Jul 2025)  
+- Learned UI/UX principles for creating intuitive interfaces for AI apps.
 
 ---
 
