@@ -66,7 +66,7 @@ Turning data into intelligent solutions 🤖📊
 
 ---
 
-### 🏆 Training & Certifications
+### 📜 Certifications
 - Microsoft Machine Learning Engineer — DEPI   
 - Computer Vision — NTI 
 - AI & ML Training — ITIDA  
@@ -82,5 +82,5 @@ Turning data into intelligent solutions 🤖📊
 ---
 
 <p align="center">
-✨ Built with logic, driven by curiosity, powered by AI ✨
+✨ Built with passion & shipped with confidence ✨
 </p>
