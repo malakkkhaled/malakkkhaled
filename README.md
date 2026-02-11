@@ -67,8 +67,8 @@ Turning data into intelligent solutions 🤖📊
 ---
 
 ### 🏆 Training & Certifications
-- Microsoft Machine Learning Engineer — DEPI (Ongoing)  
-- Computer Vision — NTI (Ongoing)  
+- Microsoft Machine Learning Engineer — DEPI   
+- Computer Vision — NTI 
 - AI & ML Training — ITIDA  
 - CIB Training  
 - IBM x Orange (DevOps & Agile Basics)
