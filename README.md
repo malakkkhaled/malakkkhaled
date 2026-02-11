@@ -51,15 +51,32 @@ Turning data into intelligent solutions 🤖📊
 
 ### 💼 Featured Projects
 
-*Weather Forecasting Using Machine Learning*  
+
+### [Face & Emotion Recognition in Photos and Video](https://github.com/malakkkhaled/Face_Detection_and_Emotion_Recognition)
+
+- Detects faces and recognizes emotions (Happy, Sad, Angry, Surprised) using Deep Learning & Computer Vision.  
+- Works with images, recorded videos, and live camera streams.  
+- Integrated optional GUI for smooth user interaction.  
+- Combines face detection models with emotion classification.  
+- Requires external installation of FFmpeg.  
+- Dataset provided separately via Google Drive (linked inside repository).  
+
+---
+
+### Weather Forecasting Using Machine Learning  
+
 - Cleaned & preprocessed weather dataset (handling missing values, encoding, scaling).  
 - Applied KMeans clustering for pattern discovery.  
 - Trained Neural Network model using Scikit-learn.  
 - Built interactive Streamlit dashboard for real-time predictions.  
- 
 
-*Online Food Ordering System (C++)*  
-- Implemented OOP concepts: inheritance, encapsulation & polymorphism.  
+---
+
+### Online Food Ordering System (C++)
+
+- Built console-based application using OOP concepts.  
+- Implemented inheritance, encapsulation & polymorphism.  
+- Designed structured menu system and order processing logic.
 
 ---
 
