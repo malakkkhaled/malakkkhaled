@@ -10,10 +10,4 @@ AI Engineer | Machine Learning • Data Science • Problem Solver
 Turning data into intelligent solutions
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/malak-khaled-a94765326">
-    <img src="https://img.shields.io/badge/LinkedIn-Malak%20Khaled-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
