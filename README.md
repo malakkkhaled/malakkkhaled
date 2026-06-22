@@ -12,7 +12,7 @@ Turning data into intelligent solutions
 
 <p align="center">
   <a href="https://www.linkedin.com/in/malak-khaled-a94765326">
-    <img src="https://img.shields.io/badge/LinkedIn-Malak%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
